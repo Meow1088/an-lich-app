@@ -147,4 +147,4 @@ adb install -r build/app/outputs/flutter-apk/app-arm64-v8a-release.apk   # -r: c
 
 - Giải thuật âm lịch: **PGS. Hồ Ngọc Đức** — *Lịch Việt Nam* (thuật toán công khai).
 - Engine an sao tử vi: port từ **`doanguyen/lasotuvi`** (MIT).
-- App dùng cho mục đích cá nhân / chia sẻ phi thương mại.
+- Mã nguồn phát hành theo giấy phép **MIT** — xem [LICENSE](LICENSE).
