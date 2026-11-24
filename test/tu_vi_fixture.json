@@ -1,0 +1,785 @@
+[
+ {
+  "solar": [
+   28,
+   6,
+   1972
+  ],
+  "gio": 1,
+  "gt": 1,
+  "lunar": [
+   18,
+   5,
+   1972
+  ],
+  "canNam": 9,
+  "chiNam": 1,
+  "cungMenh": 7,
+  "cungThan": 7,
+  "cungs": [
+   {
+    "cung": 1,
+    "tenCung": "Thiên di",
+    "than": false,
+    "daiHan": 62,
+    "tieuHan": "Dần",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Kình dương",
+     "Lực sĩ",
+     "Thiên quý",
+     "Thái tuế",
+     "Thất sát",
+     "Đế vượng"
+    ]
+   },
+   {
+    "cung": 2,
+    "tenCung": "Tật Ách",
+    "than": false,
+    "daiHan": 72,
+    "tieuHan": "Mão",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bát tọa",
+     "Suy",
+     "Tam thai",
+     "Thanh long",
+     "Thiên hình",
+     "Thiên không",
+     "Thiên sứ",
+     "Thiếu dương"
+    ]
+   },
+   {
+    "cung": 3,
+    "tenCung": "Tài Bạch",
+    "than": false,
+    "daiHan": 82,
+    "tieuHan": "Thìn",
+    "tuan": true,
+    "triet": true,
+    "sao": [
+     "Bệnh",
+     "Cô thần",
+     "Hỏa tinh",
+     "Liêm trinh",
+     "Phong cáo",
+     "Tang môn",
+     "Thiên mã",
+     "Tiểu hao",
+     "Văn tinh",
+     "Ân quang"
+    ]
+   },
+   {
+    "cung": 4,
+    "tenCung": "Tử tức",
+    "than": false,
+    "daiHan": 92,
+    "tieuHan": "Tỵ",
+    "tuan": true,
+    "triet": true,
+    "sao": [
+     "Hồng loan",
+     "Thiên việt",
+     "Thiếu âm",
+     "Tướng quân",
+     "Tử"
+    ]
+   },
+   {
+    "cung": 5,
+    "tenCung": "Phu thê",
+    "than": false,
+    "daiHan": 102,
+    "tieuHan": "Ngọ",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Hoa cái",
+     "Long trì",
+     "Mộ",
+     "Phá quân",
+     "Quan phù",
+     "Thiên giải",
+     "Thiên la",
+     "Tấu thư",
+     "Văn Khúc",
+     "Đường phù"
+    ]
+   },
+   {
+    "cung": 6,
+    "tenCung": "Huynh đệ",
+    "than": false,
+    "daiHan": 112,
+    "tieuHan": "Mùi",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Kiếp sát",
+     "Nguyệt đức",
+     "Phi liêm",
+     "Thiên khôi",
+     "Thiên riêu",
+     "Thiên y",
+     "Thiên đồng",
+     "Tuyệt",
+     "Tử phù"
+    ]
+   },
+   {
+    "cung": 7,
+    "tenCung": "Mệnh",
+    "than": true,
+    "daiHan": 2,
+    "tieuHan": "Thân",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Dưỡng",
+     "Hóa khoa",
+     "Hóa kỵ",
+     "Hữu bật",
+     "Hỷ thần",
+     "Thai phụ",
+     "Thiên hư",
+     "Thiên khốc",
+     "Thiên phúc",
+     "Thiên phủ",
+     "Thiên thọ",
+     "Thiên tài",
+     "Tuế phá",
+     "Vũ khúc"
+    ]
+   },
+   {
+    "cung": 8,
+    "tenCung": "Phụ mẫu",
+    "than": false,
+    "daiHan": 12,
+    "tieuHan": "Dậu",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bệnh phù",
+     "Long đức",
+     "Quốc ấn",
+     "Thai",
+     "Thái Dương",
+     "Thái âm"
+    ]
+   },
+   {
+    "cung": 9,
+    "tenCung": "Phúc đức",
+    "than": false,
+    "daiHan": 22,
+    "tieuHan": "Tuất",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bạch hổ",
+     "Tham lang",
+     "Tràng sinh",
+     "Tả phù",
+     "Đại hao",
+     "Đẩu quân"
+    ]
+   },
+   {
+    "cung": 10,
+    "tenCung": "Điền trạch",
+    "than": false,
+    "daiHan": 32,
+    "tieuHan": "Hợi",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Cự môn",
+     "Mộc dục",
+     "Phá toái",
+     "Phúc đức",
+     "Phục binh",
+     "Thiên cơ",
+     "Thiên hỷ",
+     "Thiên trù",
+     "Thiên đức",
+     "Đào hoa"
+    ]
+   },
+   {
+    "cung": 11,
+    "tenCung": "Quan lộc",
+    "than": false,
+    "daiHan": 42,
+    "tieuHan": "Tý",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Giải thần",
+     "Hóa quyền",
+     "Linh tinh",
+     "Phượng các",
+     "Quan phù",
+     "Quan đới",
+     "Quả tú",
+     "Thiên quan",
+     "Thiên tướng",
+     "Tử vi",
+     "Văn xương",
+     "Điếu khách",
+     "Đà la",
+     "Địa võng"
+    ]
+   },
+   {
+    "cung": 12,
+    "tenCung": "Nô bộc",
+    "than": false,
+    "daiHan": 52,
+    "tieuHan": "Sửu",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bác sỹ",
+     "Hóa lộc",
+     "Lâm quan",
+     "Lưu hà",
+     "Lộc tồn",
+     "Thiên lương",
+     "Thiên thương",
+     "Trực phù",
+     "Địa giải",
+     "Địa không",
+     "Địa kiếp"
+    ]
+   }
+  ]
+ },
+ {
+  "solar": [
+   1,
+   1,
+   1990
+  ],
+  "gio": 7,
+  "gt": 1,
+  "lunar": [
+   5,
+   12,
+   1989
+  ],
+  "canNam": 6,
+  "chiNam": 6,
+  "cungMenh": 8,
+  "cungThan": 8,
+  "cungs": [
+   {
+    "cung": 1,
+    "tenCung": "Nô bộc",
+    "than": false,
+    "daiHan": 75,
+    "tieuHan": "Tuất",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Long đức",
+     "Mộ",
+     "Phi liêm",
+     "Phá quân",
+     "Thai phụ",
+     "Thiên khôi",
+     "Thiên riêu",
+     "Thiên thương",
+     "Thiên thọ",
+     "Thiên tài",
+     "Thiên y",
+     "Đẩu quân"
+    ]
+   },
+   {
+    "cung": 2,
+    "tenCung": "Thiên di",
+    "than": false,
+    "daiHan": 65,
+    "tieuHan": "Hợi",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bạch hổ",
+     "Hoa cái",
+     "Thiên cơ",
+     "Thiên khốc",
+     "Tấu thư",
+     "Tử"
+    ]
+   },
+   {
+    "cung": 3,
+    "tenCung": "Tật Ách",
+    "than": false,
+    "daiHan": 55,
+    "tieuHan": "Tý",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bệnh",
+     "Kiếp sát",
+     "Phúc đức",
+     "Quốc ấn",
+     "Thiên phúc",
+     "Thiên phủ",
+     "Thiên sứ",
+     "Thiên đức",
+     "Tướng quân",
+     "Tử vi"
+    ]
+   },
+   {
+    "cung": 4,
+    "tenCung": "Tài Bạch",
+    "than": false,
+    "daiHan": 45,
+    "tieuHan": "Sửu",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Suy",
+     "Thái âm",
+     "Tiểu hao",
+     "Tả phù",
+     "Điếu khách"
+    ]
+   },
+   {
+    "cung": 5,
+    "tenCung": "Tử tức",
+    "than": false,
+    "daiHan": 35,
+    "tieuHan": "Dần",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Hóa quyền",
+     "Hỏa tinh",
+     "Quả tú",
+     "Tham lang",
+     "Thanh long",
+     "Thiên hỷ",
+     "Thiên la",
+     "Trực phù",
+     "Văn xương",
+     "Đế vượng"
+    ]
+   },
+   {
+    "cung": 6,
+    "tenCung": "Phu thê",
+    "than": false,
+    "daiHan": 25,
+    "tieuHan": "Mão",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Cự môn",
+     "Giải thần",
+     "Lâm quan",
+     "Lực sĩ",
+     "Phá toái",
+     "Phượng các",
+     "Thái tuế",
+     "Đà la",
+     "Địa không",
+     "Địa kiếp"
+    ]
+   },
+   {
+    "cung": 7,
+    "tenCung": "Huynh đệ",
+    "than": false,
+    "daiHan": 15,
+    "tieuHan": "Thìn",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bác sỹ",
+     "Liêm trinh",
+     "Lưu hà",
+     "Lộc tồn",
+     "Quan đới",
+     "Thiên giải",
+     "Thiên không",
+     "Thiên tướng",
+     "Thiếu dương",
+     "Đào hoa",
+     "Địa giải"
+    ]
+   },
+   {
+    "cung": 8,
+    "tenCung": "Mệnh",
+    "than": true,
+    "daiHan": 5,
+    "tieuHan": "Tỵ",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bát tọa",
+     "Hóa khoa",
+     "Kình dương",
+     "Mộc dục",
+     "Quan phù",
+     "Tam thai",
+     "Tang môn",
+     "Thiên lương",
+     "Thiên quý",
+     "Ân quang"
+    ]
+   },
+   {
+    "cung": 9,
+    "tenCung": "Phụ mẫu",
+    "than": false,
+    "daiHan": 115,
+    "tieuHan": "Ngọ",
+    "tuan": false,
+    "triet": true,
+    "sao": [
+     "Cô thần",
+     "Phong cáo",
+     "Phục binh",
+     "Thiên hình",
+     "Thiên trù",
+     "Thiên việt",
+     "Thiếu âm",
+     "Thất sát",
+     "Tràng sinh"
+    ]
+   },
+   {
+    "cung": 10,
+    "tenCung": "Phúc đức",
+    "than": false,
+    "daiHan": 105,
+    "tieuHan": "Mùi",
+    "tuan": false,
+    "triet": true,
+    "sao": [
+     "Linh tinh",
+     "Long trì",
+     "Quan phù",
+     "Thai",
+     "Thiên quan",
+     "Thiên đồng",
+     "Văn tinh",
+     "Đại hao"
+    ]
+   },
+   {
+    "cung": 11,
+    "tenCung": "Điền trạch",
+    "than": false,
+    "daiHan": 95,
+    "tieuHan": "Thân",
+    "tuan": true,
+    "triet": false,
+    "sao": [
+     "Bệnh phù",
+     "Dưỡng",
+     "Hóa kỵ",
+     "Hóa lộc",
+     "Hồng loan",
+     "Nguyệt đức",
+     "Tử phù",
+     "Văn Khúc",
+     "Vũ khúc",
+     "Địa võng"
+    ]
+   },
+   {
+    "cung": 12,
+    "tenCung": "Quan lộc",
+    "than": false,
+    "daiHan": 85,
+    "tieuHan": "Dậu",
+    "tuan": true,
+    "triet": false,
+    "sao": [
+     "Hữu bật",
+     "Hỷ thần",
+     "Thiên hư",
+     "Thiên mã",
+     "Thái Dương",
+     "Tuyệt",
+     "Tuế phá",
+     "Đường phù"
+    ]
+   }
+  ]
+ },
+ {
+  "solar": [
+   15,
+   8,
+   1985
+  ],
+  "gio": 4,
+  "gt": -1,
+  "lunar": [
+   29,
+   6,
+   1985
+  ],
+  "canNam": 2,
+  "chiNam": 2,
+  "cungMenh": 5,
+  "cungThan": 11,
+  "cungs": [
+   {
+    "cung": 1,
+    "tenCung": "Tài Bạch",
+    "than": false,
+    "daiHan": 84,
+    "tieuHan": "Thân",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Linh tinh",
+     "Tham lang",
+     "Thiên khôi",
+     "Trực phù",
+     "Tử",
+     "Đại hao",
+     "Địa giải"
+    ]
+   },
+   {
+    "cung": 2,
+    "tenCung": "Tử tức",
+    "than": false,
+    "daiHan": 94,
+    "tieuHan": "Mùi",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bát tọa",
+     "Cự môn",
+     "Hoa cái",
+     "Hỏa tinh",
+     "Mộ",
+     "Phá toái",
+     "Phục binh",
+     "Tam thai",
+     "Thiên đồng",
+     "Thái tuế"
+    ]
+   },
+   {
+    "cung": 3,
+    "tenCung": "Phu thê",
+    "than": false,
+    "daiHan": 104,
+    "tieuHan": "Ngọ",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Cô thần",
+     "Hồng loan",
+     "Kiếp sát",
+     "Quan phù",
+     "Thiên hình",
+     "Thiên không",
+     "Thiên tướng",
+     "Thiếu dương",
+     "Tuyệt",
+     "Vũ khúc",
+     "Đà la",
+     "Địa kiếp"
+    ]
+   },
+   {
+    "cung": 4,
+    "tenCung": "Huynh đệ",
+    "than": false,
+    "daiHan": 114,
+    "tieuHan": "Tỵ",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bác sỹ",
+     "Dưỡng",
+     "Hóa quyền",
+     "Lộc tồn",
+     "Tang môn",
+     "Thiên lương",
+     "Thái Dương"
+    ]
+   },
+   {
+    "cung": 5,
+    "tenCung": "Mệnh",
+    "than": false,
+    "daiHan": 4,
+    "tieuHan": "Thìn",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Kình dương",
+     "Lực sĩ",
+     "Thai",
+     "Thiên la",
+     "Thiên quan",
+     "Thiên quý",
+     "Thiếu âm",
+     "Thất sát"
+    ]
+   },
+   {
+    "cung": 6,
+    "tenCung": "Phụ mẫu",
+    "than": false,
+    "daiHan": 14,
+    "tieuHan": "Mão",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Hóa lộc",
+     "Hữu bật",
+     "Long trì",
+     "Phong cáo",
+     "Quan phù",
+     "Thanh long",
+     "Thiên cơ",
+     "Thiên khốc",
+     "Thiên tài",
+     "Tràng sinh"
+    ]
+   },
+   {
+    "cung": 7,
+    "tenCung": "Phúc đức",
+    "than": false,
+    "daiHan": 24,
+    "tieuHan": "Dần",
+    "tuan": false,
+    "triet": true,
+    "sao": [
+     "Hóa khoa",
+     "Mộc dục",
+     "Nguyệt đức",
+     "Thiên giải",
+     "Thiên riêu",
+     "Thiên trù",
+     "Thiên y",
+     "Tiểu hao",
+     "Tử phù",
+     "Tử vi",
+     "Văn tinh",
+     "Đào hoa"
+    ]
+   },
+   {
+    "cung": 8,
+    "tenCung": "Điền trạch",
+    "than": false,
+    "daiHan": 34,
+    "tieuHan": "Sửu",
+    "tuan": false,
+    "triet": true,
+    "sao": [
+     "Quan đới",
+     "Thiên hư",
+     "Tuế phá",
+     "Tướng quân",
+     "Văn Khúc",
+     "Văn xương"
+    ]
+   },
+   {
+    "cung": 9,
+    "tenCung": "Quan lộc",
+    "than": false,
+    "daiHan": 44,
+    "tieuHan": "Tý",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Long đức",
+     "Lâm quan",
+     "Phá quân",
+     "Thiên hỷ",
+     "Thiên phúc",
+     "Thiên việt",
+     "Tấu thư",
+     "Đường phù",
+     "Địa không"
+    ]
+   },
+   {
+    "cung": 10,
+    "tenCung": "Nô bộc",
+    "than": false,
+    "daiHan": 54,
+    "tieuHan": "Hợi",
+    "tuan": false,
+    "triet": false,
+    "sao": [
+     "Bạch hổ",
+     "Giải thần",
+     "Phi liêm",
+     "Phượng các",
+     "Thai phụ",
+     "Thiên thương",
+     "Tả phù",
+     "Đế vượng"
+    ]
+   },
+   {
+    "cung": 11,
+    "tenCung": "Thiên di",
+    "than": true,
+    "daiHan": 64,
+    "tieuHan": "Tuất",
+    "tuan": true,
+    "triet": false,
+    "sao": [
+     "Hỷ thần",
+     "Liêm trinh",
+     "Lưu hà",
+     "Phúc đức",
+     "Quả tú",
+     "Suy",
+     "Thiên phủ",
+     "Thiên đức",
+     "Ân quang",
+     "Địa võng"
+    ]
+   },
+   {
+    "cung": 12,
+    "tenCung": "Tật Ách",
+    "than": false,
+    "daiHan": 74,
+    "tieuHan": "Dậu",
+    "tuan": true,
+    "triet": false,
+    "sao": [
+     "Bệnh",
+     "Bệnh phù",
+     "Hóa kỵ",
+     "Quốc ấn",
+     "Thiên mã",
+     "Thiên sứ",
+     "Thiên thọ",
+     "Thái âm",
+     "Điếu khách",
+     "Đẩu quân"
+    ]
+   }
+  ]
+ }
+]
